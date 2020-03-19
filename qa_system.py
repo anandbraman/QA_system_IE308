@@ -79,7 +79,7 @@ es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
 files = listdir('data/articles/')
 files = [file for file in files if file != ".DS_Store"]
-text_dat = []
+
 for num, file in enumerate(files):
     fname = 'data/articles/' + file
     f = open(fname, encoding='utf8', errors='replace')
@@ -95,9 +95,6 @@ for num, file in enumerate(files):
                           id=num, body=article_dict)
 f.close()
 
-for i, val in enumerate(text_dat):
-    article_db = es.index(index='businessinsider',
-                          doc_type='article', id=i, body=val)
 
 question = input("Ask a question: ")
 
