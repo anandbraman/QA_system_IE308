@@ -3,8 +3,7 @@ The code in this repository is a question answering system that uses 2013 and 20
 
 1) Which companies went bankrupt in month X of year Y?
 <br><br>
-2) What affects GDP? After this question, the user is prompted to ask a follow-up of the following format: 
-*What percentage of drop or increase is associated with X?* The user can ask as many follow-ups of this format as they want. Afterward, the user can ask other questions, if they would like. 
+2) What affects GDP? After this question, the user is asked if they would like to ask a follow-up. If the answer is "Yes", then the user is prompted to ask a question of the following format: *What percentage of drop or increase is associated with X?* The user can ask as many follow-ups of this format as they want. Afterward, the user can ask other questions, if they would like. 
 <br><br>
 3) Who is the CEO of company X?
 <br>
