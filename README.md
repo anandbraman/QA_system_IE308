@@ -13,4 +13,4 @@ After asking questions the user is free to keep asking questions or enter "No fu
 ### Software Requirements
 To run this code you must have ElasticSearch downloaded. Follow the instructions here: https://www.elastic.co/downloads/elasticsearch
 <br>
-Following the download instructions should lead you to an ElasticSearch cluster running locally on your machine. After this, the user should be able to run `qa_system.py` from the command line. 
+Following the download instructions should lead you to an ElasticSearch cluster running locally on your machine. But for clarity I'll include a little bit here. After the download, run bin/elasticsearch or bin\elasticsearch.bat on Windows. Then in a new terminal window, run curl http://localhost:9200/, or Invoke-RestMethod http://localhost:9200 with PowerShell. After this, the user should be able to run `qa_system.py` from the command line. 
