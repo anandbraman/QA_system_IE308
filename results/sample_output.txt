@@ -1,0 +1,57 @@
+Ask a question: Who is the CEO of Microsoft?
+['Steve Ballmer']
+
+Ask another question: Who is the CEO of Tesla?
+['Elon Musk']
+
+Ask another question: Who is the CEO of Oracle?
+['Larry Ellison']
+
+Ask another question: Which companies went bankrupt in April of 2013
+['Zames', 'JPMorgan']
+
+Ask another question: Which companies went bankrupt in December of 2014
+["Bankrupt Trump Entertainment's", 'the U.S. Bankruptcy Court', 'Trust Bank', 'Trump Entertainment']
+
+Ask another question: Which companies went bankrupt in February of 2013?
+['Energy Future Holdings Corp.', 'EFH', 'ECB', 'KKR', 'Goldman Sachs Capital Partners', 'Franklin Resources Inc.', 'Apollo Global Management LLC', 'Oaktree Capital Group', 'GSO Capital Partners']
+
+Ask a question: What affects GDP?
+Imports, which are a subtraction in the calculation of GDP, increased." This table from the BEA gives a breakdown of the GDP components. BEA FREE AppDownload
+REUTERS/Maxim ShemetovTrading was suspended for an hour on the Moscow Stock Exchange Wednesday.
+Depending on how you measure it, you can even determine that the actual contribution of the financial services sector is negative, although I would not make that argument. But was the contribution of financial services in 2005-2006 as positive as their impact on GDP suggests? Or was it part of the destructive process?
+In the first quarter, real GDP decreased 2.1 percent (revised)...The increase in real GDP in the second quarter primarily reflected positive contributions from personal consumption expenditures (PCE), private inventory investment, exports, nonresidential fixed investment, state and local government spending, and residential fixed investment. Imports, which are a subtraction in the calculation of GDP, increased." This table from the BEA gives a breakdown of the GDP components.
+The same formula would apply to a trucker who switches from a freight company to a movie production company (for the same salary). If he moves refrigerators, he only adds to GDP through his personal spending, but if he hauls movie lights, his contribution to GDP is doubled. It makes no difference if the movie bombs.
+GDP is particularly bad at detecting innovation, as George Gilders powerhouse work Knowledge and Power explains. There is a clear consensus emerging in economic circles about that weakness in the formula for calculating GDP, but there is nothing approaching consensus on how you might actually measure the contribution of innovation to GDP. How do you measure the value of Google maps?
+The "second" estimate for the second quarter,based on more complete data, will be released on August 29, 2013. The increase in real GDP in the second quarter primarily reflected positive contributions frompersonal consumption expenditures (PCE), exports, nonresidential fixed investment, private inventoryinvestment, and residential investment that were partly offset by a negative contribution from federalgovernment spending. Imports, which are a subtraction in the calculation of GDP, increased.
+Instead, statisticians turned to counting the economic contribution of prostitution and illegal drugs (along with a few other odds and ends). If you are borrowing money and your creditworthiness depends on cash flow and your debt-to-GDP ratio, you tend to look for sources of income that werent previously accounted for. Did the size of the US economy increase by 3% last summer?
+No wonder Argentina's President decided to leave her private plane behind and leased a plane for her latest world tour  Singer's out for blood. 
+Doug Short is out with his fantastic chart illustrating the latest GDP advance estimate tick, which shocked everyone by going negative. First, here's the BEA's breakdown: And here's the chart with a nice historic review: Doug Short/Advisor Perspectives SEE MORE: The Evidence That We Are Entering A New Market Supercycle &gt;
+Flickr/Null ValuePolice in Japan discovered the body of a missing portfolio manager and what is believed to be the body of his wife near Tokyo two days ago, Bloomberg News reported.
+It is also a tool used to argue for or against income inequality (depending on what country youre in). GDP is particularly bad at detecting innovation, as George Gilders powerhouse work Knowledge and Power explains. There is a clear consensus emerging in economic circles about that weakness in the formula for calculating GDP, but there is nothing approaching consensus on how you might actually measure the contribution of innovation to GDP.
+The increase in real GDP in the second quarter primarily reflected positive contributions frompersonal consumption expenditures (PCE), exports, nonresidential fixed investment, private inventoryinvestment, and residential investment that were partly offset by a negative contribution from federalgovernment spending. Imports, which are a subtraction in the calculation of GDP, increased. The acceleration in real GDP in the second quarter primarily reflected upturns in nonresidentialfixed investment and in exports, a smaller decrease in federal government spending, and an upturn instate and local government spending that were partly offset by an acceleration in imports anddecelerations in private inventory investment and in PCE. ...
+
+Would you like to ask a GDP followup: Yes
+You may ask a follow up of the following format
+What percentage of drop or increase is associated with X?
+Ask your followup: What percentage of drop or increase is associated with exports?
+Raises the hurdle for 3% growth in 2014." Exports of goods and services tumbled 7.6% hacking a full percentage point off of GDP growth. Government expenditures declined by 0.5%.
+FREE AppDownload
+U.S. GDP grew at a measly 0.1% rate in Q1. Personal consumption grew by 3.0%, adding 2 percentage points of growth to GDP. Meanwhile exports fell 7.6% taking a full percentage point of growth from GDP.
+Personal consumption grew by 3.0%, adding 2 percentage points of growth to GDP. Meanwhile exports fell 7.6% taking a full percentage point of growth from GDP. Each component of GDP varies widely in how much it contributes to growth.
+Exports fell 5.7 percent while imports retreated 3.2 percent. Net trade subtracted 0.81 percentage points from Q4 GDP growth. The GDP Price Index came in at 0.6 percent  below expectations  and core PCE came in at 0.9 percent, right in line with expectations.
+If you are done asking followups, enter 'No further followups.'
+
+Ask another followup: What percentage of drop or increase is associated with personal consumption?
+Well, first let's look at the biggest component of GDP--Personal Consumption (consumer spending). Personal Consumption these days is a higher-than-average ~71% of GDP. Importantly, personal consumption has stayed at about that level for the last several years.
+So which one is to blame? Well, first let's look at the biggest component of GDP--Personal Consumption (consumer spending). Personal Consumption these days is a higher-than-average ~71% of GDP.
+Personal consumption grew by 3.0%, which was better than the 2.0% expected. This contributed to 2 percentage points of growth in GDP. Then again, excluding the jump in health-care consumption, personal consumption would've been up by about 1.7%, notes Pantheon Macroeconomics' Ian Sheperdson. "
+This was much stronger than the 3.0% expected by economists. With the GDP report, we learned that personal consumption jumped 2.5%, beating expectations for a 1.9% gain. Making things even better, Q1 GDP growth was revised up to -2.1% from -2.9%, and personal consumption was revised up to+1.2% from +1.0%.
+If you are done asking followups, enter 'No further followups.'
+
+Ask another followup: What percentage of drop or increase is associated with investment?
+In the first quarter, real GDP decreased 2.1 percent (revised)...The increase in real GDP in the second quarter primarily reflected positive contributions from personal consumption expenditures (PCE), private inventory investment, exports, nonresidential fixed investment, state and local government spending, and residential fixed investment. Imports, which are a subtraction in the calculation of GDP, increased." This table from the BEA gives a breakdown of the GDP components.
+Economists were expecting Q2 GDP to grow 3%. First-quarter GDP was also revised up to contracting 2.1% from a previous estimate of 2.9%. The BEA said theupward revision to Q1 GDP primarily reflected upward revisions to private inventory investment, to nonresidential fixed investment, and to PCE.
+Then again, excluding the jump in health-care consumption, personal consumption would've been up by about 1.7%, notes Pantheon Macroeconomics' Ian Sheperdson. " The deceleration in real GDP growth in the first quarter primarily reflected downturns in exports and in nonresidential fixed investment, a larger decrease in private inventory investment, a deceleration in PCE, and a downturn in state and local government spending that were partly offset by an upturn in federal government spending and a downturn in imports," said the BEA. Nonresidential fixed investment, a measure of business spending or capital expenditures, fell 2.8%. "
+However, fixed business investment surged 9.7 percent after advancing only 0.9 percent in Q3. The investment surge added 1.18 percentage points to Q4 GDP growth. While personal consumption expenditures were the biggest positive contributor to Q4 GDP growth, adding 1.53 percentage points, they were driven largely by the spike in consumption of durable goods, up 13.9 percent from Q3.
+If you are done asking followups, enter 'No further followups.'
