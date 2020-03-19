@@ -12,6 +12,8 @@ Business Insider articles to answer the following questions
         The user is prompted to ask a follow-up question.
         If no follow-up, user is allowed to ask other questions (i.e. 1 and 3)
     3. Who is the CEO of company X.
+    
+    Please refer to the README.md to run this code!
 '''
 
 import pandas as pd
