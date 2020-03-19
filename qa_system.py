@@ -101,7 +101,7 @@ for i, val in enumerate(text_dat):
 
 question = input("Ask a question: ")
 
-while(question != "No further questions"):
+while(question not in ["No further questions", "No further questions."]):
 
     q_type = question_type(question)
     if question_type(question) not in ["GDP", "CEO", "COMPANY"]:
@@ -136,8 +136,8 @@ while(question != "No further questions"):
                           'filter': {'term': {'date': date_searchable}}}}
 
     elif q_type == "GDP":
-        search_term = "GDP"
-        query = {'match': {'content': search_term}}
+        search_term = "contribution breakdown GDP"
+        query = {'match': {'content': "GDP"}}
 
     doc_search = es.search(index='businessinsider', doc_type='article', body={
                                  'query': query})
@@ -168,7 +168,7 @@ while(question != "No further questions"):
     # use search_term here because query contains
     # filter in the "COMPANY" case.
     result = es.search(index='sentences', doc_type='sent',
-                       body={'size': 25,
+                       body={'size': 10,
                              'query': {'match':
                                        {'sent': search_term}}})
 
@@ -221,7 +221,7 @@ while(question != "No further questions"):
                     [c for c in keyword if c not in punctuation])
                 search_term = keyword_np + " GDP"
                 result = es.search(index='sentences', doc_type='sent',
-                                   body={'size': 15,
+                                   body={'size': 300,
                                          'query': {'match':
                                                    {'sent': search_term}}})
                 answer_sents = []
@@ -234,8 +234,9 @@ while(question != "No further questions"):
                     if "PERCENT" in labels:
                         answer.append(sents.text)
 
-                for i in range(10):
-                    print(answer[i])
+                for i, text in enumerate(answer):
+                    if i < 4:
+                        print(text)
                 print("If you are done asking followups, enter \
 'No further followups.'")
                 factor = input("Ask another followup: ")
